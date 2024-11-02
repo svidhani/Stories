@@ -1,4 +1,3 @@
-```markdown
 # The Animal Adventure Club
 
 ## Chapter 1: The Secret Meeting in the Forest
@@ -126,4 +125,3 @@ The night faded into a beautiful memory, where laughter echoed under the twinkli
 As the mesmerizing night came to a close, they looked around at their friends, feeling grateful for the bond they shared. Together, they could face any challenge, navigate any maze, and discover the beauty of the world—together.
 
 And so, with hearts full of adventure and joy, they left the clearing that night with a promise of more exciting chapters ahead. The Animal Adventure Club was just beginning their journey—endless tales of friendship, bravery, and treasure awaited!
-```
