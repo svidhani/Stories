@@ -1,7 +1,6 @@
 # The Animal Adventure Club
 
 ## Chapter 1: The Secret Meeting in the Forest
-
 ![In a lush green forest](in_a_lush_green_forest.png)
 
 In a hidden clearing deep in the heart of the forest, the sunlight streamed through the leaves, dancing gracefully on the forest floor. It was here that Oliver the Owl had decided to call a secret meeting of his friends. His small, round glasses perched on his beak as he adjusted them thoughtfully while he awaited the arrival of his companions.
@@ -23,7 +22,7 @@ The three friends discussed their plan in detail, their imaginations soaring wit
 As the sun dipped below the horizon, painting the sky with hues of orange and purple, Oliver, Bella, and Leo exchanged excited glances, fueled by the thrill of the unknown. Little did they know, this was only the beginning of their thrilling escapade—a journey that would lead them to discover treasures and friendships like they had never imagined.
 
 ## Chapter 2: The Mysterious River
-![At a glistening river that sparkled like diamonds](Users/siddharthvidhani/Documents/dev/GENAI/crew/storybooks/images/at_a_glistening_river_that.png)
+![At a glistening river that sparkled like diamonds](at_a_glistening_river_that.png)
 
 The dawn was bursting with life as the friends gathered early for their much-anticipated expedition. Bella hopped in circles, her excitement infectious, while Leo offered encouraging words, reminding them to stay brave. Oliver, with a scroll tucked under his wing, led the way through the whispering trees toward their first destination.
 
@@ -46,7 +45,7 @@ The Animal Adventure Club banded together, devising a plan to retrieve the shiny
 With teamwork, they carefully approached the mysterious shimmer. As they drew closer, the glint grew even brighter, sending ripples of excitement through the group. What they found would surprise them all, ensuring that this was just the beginning of their wondrous adventure together.
 
 ## Chapter 3: The Shiny Treasure
-![The friends Bella the Bunny, Leo the Lion, and Oliver the Owl](Users/siddharthvidhani/Documents/dev/GENAI/crew/storybooks/the_friends_bella_the_bunny.png)
+![The friends Bella the Bunny, Leo the Lion, and Oliver the Owl](the_friends_bella_the_bunny.png)
 
 As they worked together, their hearts raced, and laughter filled the air. Leo steadied himself in the water with Bella at his side, guiding him toward the enigmatic shimmer. They soon discovered that the shiny object was a treasure chest, partly buried in the muddy riverbed.
 
@@ -73,7 +72,7 @@ As they stood in amazement, they felt the thrill of discovery rushing through th
 A consensus emerged. The excitement of their first treasure filled them with courage and aspirations for where their next adventure might take them. And so, they vowed to embark on their next journey, as a unified team, determined to see where their treasure maps would lead them across breathtaking lands.
 
 ## Chapter 4: The Journey to the Hidden Cave
-![Inside a dark cave the friends discovered](Users/siddharthvidhani/Documents/dev/GENAI/crew/storybooks/inside_a_dark_cave_the.png)
+![Inside a dark cave the friends discovered](inside_a_dark_cave_the.png)
 
 Following the directions on one of the maps, the Animal Adventure Club set off through the forest, eager to uncover more secrets of the wilderness. Their hearts were filled with laughter and chatter as they relived tales of the treasure they’d just found.
 
@@ -100,7 +99,7 @@ With newfound bravery, they explored the chamber, learning to appreciate the bea
 Finally, as they began to make their way back out, they knew that this treasure trove would forever be treasured not just for its crystals, but for the memories they created and shared together as friends.
 
 ## Chapter 5: The Great Animal Celebration
-![In a vibrant forest clearing during the celebration](Users/siddharthvidhani/Documents/dev/GENAI/crew/storybooks/in_a_vibrant_forest_clearing.png)
+![In a vibrant forest clearing during the celebration](in_a_vibrant_forest_clearing.png)
 
 As the sun dipped low and the forest was bathed in rich golden hues, the Animal Adventure Club returned home, buzzing with excitement from their many adventures. Each friend couldn’t wait to share tales of their escapades—the treasure, the cave, and everything in between.
 
