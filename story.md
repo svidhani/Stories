@@ -2,6 +2,7 @@
 # The Animal Adventure Club
 
 ## Chapter 1: The Secret Meeting in the Forest
+
 ![In a lush green forest](in_a_lush_green_forest.png)
 
 In a hidden clearing deep in the heart of the forest, the sunlight streamed through the leaves, dancing gracefully on the forest floor. It was here that Oliver the Owl had decided to call a secret meeting of his friends. His small, round glasses perched on his beak as he adjusted them thoughtfully while he awaited the arrival of his companions.
