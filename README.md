@@ -1,4 +1,2 @@
-# Stories
-Kids stories generated using AI
-
-![In a lush green forest](in_a_lush_green_forest.png)
+# AI agents at play
+Kids stories generated using AI agents. The magic has been performed by OPEN AI GPT 4o and DALL E 3.
